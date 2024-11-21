@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jhonatan2702
+- 👋 Hi, I’m Jhonatan Oliveira
 - 👀 I’m interested in Phyton
 - 🌱 I’m currently learning html, css, js
 - 💞️ I'm collaborating on a Python, SQL, HTML project
